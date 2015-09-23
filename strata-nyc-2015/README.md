@@ -11,13 +11,13 @@ Along the way, we also cover feature engineering and deploying machine learning 
 
 You can browse the notebooks using Github iPython notebook viewer. Note that some images may not be rendered correctly If you'd like to run it, follow these steps to set up your machine.
 
-1. Set up GraphLab Create
-Register for GraphLab Create (https://dato.com/download/), then follow instructions to install.
+**Set up GraphLab Create**
+- Register for GraphLab Create (https://dato.com/download/), then follow instructions to install.
 
-2. Download the datasets
+**Download the datasets**
 Download and unzip the datasets [831MB]:
 http://static.dato.com/ml101_datasets_stratanyc_2015.zip
 
-3. Handy references
+**Handy references**
 - [GraphLab Create User Guide](http://dato.com/learn/userguide)
 - [GraphLab Forum](http://forum.dato.com/categories/graphlab-create)
