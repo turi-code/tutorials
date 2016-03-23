@@ -4,8 +4,8 @@ This directory contains demo notebooks used for **Practical Machine**, an all-da
 at [Strata + Hadoop World, San Jose, 2016](http://conferences.oreilly.com/strata/hadoop-big-data-ca/public/schedule/detail/47056).
 The course is designed to introduce machine learning via real applications like 
 - building a recommender
-- anomaly detection
-- time series analysis
+- detecing anomalies
+- analyzing time series data
 - image analysis using deep learning. 
 - predicting customer churn
 - deploying machine learning 
