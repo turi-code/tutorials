@@ -18,7 +18,7 @@ steps to set up and run the notebooks on your own machine.
 
 - [Download](https://dato.com/download/) GraphLab Create v1.8.5 and then follow instructions to [install](https://dato.com/download/install.html).
 - Download and unzip the datasets [[831MB]](http://static.dato.com/ml101_datasets_stratasj_2016.zip)
-- [Install Jupyter notebook](http://jupyter.readthedocs.org/en/latest/install.html)
+- [Install Jupyter notebook](http://jupyter.readthedocs.org/en/latest/install.html) (needed only if you install GraphLab Create via command line)
 
 ## Handy references
 
