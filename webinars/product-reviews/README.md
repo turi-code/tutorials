@@ -1,0 +1,8 @@
+## Text analysis with machine learning
+
+This repository contains a demo of using GraphLab Create for understanding product sentiment using review data.
+
+See the [live demo](http://dato-demo-baby-product-reviews.s3-us-west-2.amazonaws.com/index.html) for a example of how one might use this analysis to compare products.
+
+This demo requires the Amazon Baby Products data set hosted here: 
+[https://github.com/learnml/machine-learning-specialization](https://github.com/learnml/machine-learning-specialization)
