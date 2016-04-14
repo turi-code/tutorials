@@ -1,6 +1,6 @@
 ## Text analysis with machine learning
 
-This repository contains a demo of using GraphLab Create for understanding product sentiment using review data.
+This repository contains a demo of using GraphLab Create for understanding product sentiment using review data. The notebook requires GLC v1.9 which will be released at the end of April, 2016.
 
 See the [live demo](http://dato-demo-baby-product-reviews.s3-us-west-2.amazonaws.com/index.html) for a example of how one might use this analysis to compare products.
 
