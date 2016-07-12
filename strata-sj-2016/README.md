@@ -16,11 +16,11 @@ You can browse the notebooks using Github's notebook viewer, but please note tha
 some images may not be rendered correctly. Follow these
 steps to set up and run the notebooks on your own machine.
 
-- [Download](https://dato.com/download/) GraphLab Create v1.8.5 and then follow instructions to [install](https://dato.com/download/install.html).
-- Download and unzip the datasets [[831MB]](http://static.dato.com/ml101_datasets_stratasj_2016.zip)
+- [Download](https://turi.com/download/) GraphLab Create v1.8.5 and then follow instructions to [install](https://turi.com/download/install.html).
+- Download and unzip the datasets [[831MB]](https://static.turi.com/datasets/ml101_datasets_stratasj_2016.zip)
 - [Install Jupyter notebook](http://jupyter.readthedocs.org/en/latest/install.html) (needed only if you install GraphLab Create via command line)
 
 ## Handy references
 
-- [GraphLab Create User Guide](http://dato.com/learn/userguide)
-- [GraphLab Forum](http://forum.dato.com/categories/graphlab-create)
+- [GraphLab Create User Guide](https://turi.com/learn/userguide)
+- [GraphLab Forum](http://forum.turi.com/categories/graphlab-create)

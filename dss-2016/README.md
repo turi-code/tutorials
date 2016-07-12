@@ -1,7 +1,7 @@
 # Strata + Hadoop World, San Jose, 2016
 
 This directory contains demo notebooks used for the collection of **machine
-learning tutorials** at the [Data Science Summit 2016](http://conf.dato.com/2016/us/). 
+learning tutorials** at the [Data Science Summit 2016](https://conf.turi.com/2016/us/). 
 
 The course is designed to introduce machine learning via real applications like 
 - recommender systems
@@ -17,5 +17,5 @@ and run the notebooks on your own machine.
 
 ## Handy references
 
-- [GraphLab Create User Guide](http://dato.com/learn/userguide)
-- [GraphLab Forum](http://forum.dato.com/categories/graphlab-create)
+- [GraphLab Create User Guide](https://turi.com/learn/userguide)
+- [GraphLab Forum](http://forum.turi.com/categories/graphlab-create)
