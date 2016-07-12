@@ -19,5 +19,5 @@ You can browse the notebooks using Github IPython notebook viewer. Note that som
 
 ## Handy references
 
-- [GraphLab Create User Guide](http://turi.com/learn/userguide)
+- [GraphLab Create User Guide](https://turi.com/learn/userguide)
 - [Turi Forum](http://forum.turi.com/categories/graphlab-create)

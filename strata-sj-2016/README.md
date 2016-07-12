@@ -22,5 +22,5 @@ steps to set up and run the notebooks on your own machine.
 
 ## Handy references
 
-- [GraphLab Create User Guide](http://turi.com/learn/userguide)
+- [GraphLab Create User Guide](https://turi.com/learn/userguide)
 - [GraphLab Forum](http://forum.turi.com/categories/graphlab-create)

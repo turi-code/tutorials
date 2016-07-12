@@ -7,5 +7,5 @@ be rendered correctly.
 If you'd like to run it, you may register for GraphLab Create
 (https://turi.com/download/), then follow instructions to install.
 
-- GraphLab Create User Guide: http://turi.com/learn/userguide
+- GraphLab Create User Guide: https://turi.com/learn/userguide
 - GraphLab Forum: http://forum.turi.com/categories/graphlab-create
