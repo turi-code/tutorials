@@ -12,7 +12,7 @@ Along the way, we also cover feature engineering and deploying machine learning 
 You can browse the notebooks using Github iPython notebook viewer. Note that some images may not be rendered correctly If you'd like to run it, follow these steps to set up your machine.
 
 - [Download](https://turi.com/download/) GraphLab Create and then follow instructions to [install](https://turi.com/download/install.html).
-- Download and unzip the datasets [[831MB]](http://static.turi.com/datasets/ml101_datasets_stratanyc_2015.zip)
+- Download and unzip the datasets [[831MB]](https://static.turi.com/datasets/ml101_datasets_stratanyc_2015.zip)
 
 ## Handy references
 
