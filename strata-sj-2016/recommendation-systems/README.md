@@ -14,10 +14,10 @@ Along the way, we also cover feature engineering and deploying machine learning 
 
 You can browse the notebooks using Github IPython notebook viewer. Note that some images may not be rendered correctly. If you'd like to run it, follow these steps to set up your machine.
 
-- [Download](https://dato.com/download/) GraphLab Create and then follow instructions to [install](https://dato.com/download/install.html).
+- [Download](https://turi.com/download/) GraphLab Create and then follow instructions to [install](https://turi.com/download/install.html).
 - Download and unzip the datasets 
 
 ## Handy references
 
-- [GraphLab Create User Guide](http://dato.com/learn/userguide)
-- [GraphLab Forum](http://forum.dato.com/categories/graphlab-create)
+- [GraphLab Create User Guide](http://turi.com/learn/userguide)
+- [GraphLab Forum](http://forum.turi.com/categories/graphlab-create)

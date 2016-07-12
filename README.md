@@ -1,14 +1,14 @@
-# Dato Tutorials
+# Turi Tutorials
 
-This repository contains materials for demos, tutorials, and talks by Dato Inc.
+This repository contains materials for demos, tutorials, and talks by Turi.
 You can browse the notebooks using Github's own notebook viewer. Note that some
 images may not be rendered correctly. 
 
 If you'd like to run it, you may register for GraphLab Create
-(https://dato.com/download/), then follow instructions to install.
+(https://turi.com/download/), then follow instructions to install.
 
-- GraphLab Create User Guide: http://dato.com/learn/userguide
-- GraphLab Forum: http://forum.dato.com/categories/graphlab-create
+- GraphLab Create User Guide: http://turi.com/learn/userguide
+- GraphLab Forum: http://forum.turi.com/categories/graphlab-create
 
 # Events
 
