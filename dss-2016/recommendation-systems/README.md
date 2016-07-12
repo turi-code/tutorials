@@ -1,6 +1,6 @@
-# Strata + Hadoop World, New York City, 2015
+# Data Science Summit 2016 
 
-This directory contains demo notebooks used for the "Introduction to Recommender Systems", the second session of **Machine Learning 101**, an all-day tutorial at [Strata + Hadoop World, New York City, 2015](http://strataconf.com/big-data-conference-ny-2015/public/schedule/detail/43217).
+This directory contains demo notebooks used for the "Introduction to Recommender Systems", the second session of **Machine Learning 101**.
 
 In this session we 
 
@@ -15,9 +15,9 @@ Along the way, we also cover feature engineering and deploying machine learning 
 You can browse the notebooks using Github IPython notebook viewer. Note that some images may not be rendered correctly. If you'd like to run it, follow these steps to set up your machine.
 
 - [Download](https://turi.com/download/) GraphLab Create and then follow instructions to [install](https://turi.com/download/install.html).
-- Download and unzip the datasets [[831MB]](https://static.turi.com/datasets/ml101_datasets_stratanyc_2015.zip)
+- Download and unzip the datasets 
 
 ## Handy references
 
 - [GraphLab Create User Guide](https://turi.com/learn/userguide)
-- [GraphLab Forum](http://forum.turi.com/categories/graphlab-create)
+- [Turi Forum](http://forum.turi.com/categories/graphlab-create)
